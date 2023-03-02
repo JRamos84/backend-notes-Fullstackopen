@@ -1,0 +1,7 @@
+POST http://localhost:3011/api/notes
+Content-Type: application/json
+
+{    
+    "name": "jose Ramos",
+    "phone": "4545"
+}
